@@ -1,7 +1,7 @@
 import React from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import AddBooks from "../features/AddBooks";
-import ShowBooks from "../features/ShowBooks";
+import AddBooks from "../features/books/AddBooks";
+import ShowBooks from "../features/books/ShowBooks";
 import Footer from "../layoutes/Footer";
 import Navbar from "../layoutes/Navbar";
 import Error from "../pages/Error";
