@@ -1,7 +1,7 @@
 import React from "react";
 
 const Editbooks = () => {
-  return <div>Editbooks</div>;
+  return <div>Editbooks provided</div>;
 };
 
 export default Editbooks;
