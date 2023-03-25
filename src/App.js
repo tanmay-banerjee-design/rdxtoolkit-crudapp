@@ -1,9 +1,10 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react'
+import Index from './routes'
 
-function App() {
+const App=()=> {
   return (
     <div className="App">
+      <Index></Index>
     </div>
   );
 }
